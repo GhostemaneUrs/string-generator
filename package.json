@@ -1,0 +1,15 @@
+{
+  "name": "pruebagenerador",
+  "version": "1.0.0",
+  "description": "PruebaGenerador",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Andres Jaramillo",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "nodemon": "^2.0.13"
+  }
+}
